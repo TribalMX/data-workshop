@@ -1,3 +1,18 @@
+# Lighthouse Labs
+## Data Analytics Workshop
+
+## Outline
+
+### Morning Session
+
+- Why we're here
+- Why not Excel/Tableau?
+- Setup
+- SQL Basics
+- Lab/Tutorial Session
+
+### Afternoon Session
+
 HOW TO ANSWER QUESTIONS
 
 Use Cases / Scenarios  0.5 hrs
@@ -5,17 +20,7 @@ Use Cases / Scenarios  0.5 hrs
   - product
   - ecommerce
 
-Basic SQL select 0.5 hrs
 
-LAB: Setting up Env 0.5 hrs
-
-Select + Where  0.5
-
-Groups + Formulas 1 
-
-LAB:  1 hr
-
------------
 WHAT IS THE RIGHT QUESTION TO ASK
 
 Group exercise:  Challenge (no idea )
