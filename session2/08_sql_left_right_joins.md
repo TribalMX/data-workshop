@@ -1,0 +1,2 @@
+# LEFT and RIGHT JOINS
+

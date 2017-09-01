@@ -1,0 +1,2 @@
+# OUTER JOINS
+

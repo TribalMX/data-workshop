@@ -1,15 +1,16 @@
 # Lighthouse Labs
 ## Data Analytics Workshop - Outline
 
-- Why we're here
-- Why not Excel/Tableau?
+- Introduction
 - Setup
 - SQL Basics
 - Lab/Tutorial Session
 
 ### Session 1
 
-- Why we're here
+- Why learn Analytics?
+- The difference between data science and data analytics
+- Some examples of what data analysts do (real world examples)
 - Why not Excel/Tableau?
 - Setup
     -  See Issue 01
@@ -72,7 +73,7 @@ Analytics Training using Use Cases
 
 Each of these sessions are tutorials in themselves
 
-- Understanding how the 6-stage analytics process
+- Understanding the 6-stage analytics process
 - Metric/KPI definition: vanity vs clarity
 - Correlation vs Causation
 - Learning how to define hypotheses and validate
