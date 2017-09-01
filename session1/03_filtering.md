@@ -42,18 +42,24 @@ Most of these comparison operators apply to numerical columns. For example, in o
 ```SELECT * FROM
 customers WHERE total_purchases > 100```
 
+
 ### Filtering non-numerical data
 
 We can also use conditional operators on non-numerical data, such as text.
 
 
+```SELECT * FROM
+customers WHERE country != 'Canada'```
 
+*Note: SQL uses single quotes to reference column values.
 
-### Conditional Logic
+You can use `>`, `<`, and the rest of the comparison operators on non-numeric columns as well—they filter based on alphabetical order. Try it out a couple times with different operators:
 
+```SELECT * FROM
+customers WHERE country > 'Canada'```
 
-### Grouping Conditions together
-
+> PRACTICE PROBLEM:
+> Write a query that only shows rows for which the customer city is Toronto
 
 
 

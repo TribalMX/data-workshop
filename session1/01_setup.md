@@ -27,34 +27,13 @@ From [Wikipedia](http://en.wikipedia.com/wiki/Databases): a database is an organ
 
 # Setup
 
+We'll be using [Mode Analytics](https://modeanalytics.com) as our platform for learning SQL and learning how to build visualizations.
 
-Mode Analytics
+In order to get setup on this course, please create an account on Mode.
+
+
 
 # Normalization
 
 TODO: Move to Advanced Topic
-
-# SQL Basics
-
-## Filtering records
-
-SELECT *
-FROM customers
-
-### Using WHERE on numbers
-
-SELECT * FROM
-customers WHERE id = 232
-
-### Conditional Logic
-
-## Using WHERE on Text
-
-### Grouping Conditions together
-
-
-
-
-
-
 

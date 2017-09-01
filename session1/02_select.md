@@ -4,8 +4,9 @@ Type in the following statement into the console:
 
 ``` SELECT * FROM customers ```
 
-
 # What actually happens when you run a query?
+
+
 
 # Conventions
 
@@ -15,8 +16,6 @@ While most capitalization conventions are the same, there are several convention
 
 TODO: Insert link to SQL code best practices
 
-
-# Normalization
 
 # SQL Basics
 
